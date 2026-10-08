@@ -1,8 +1,8 @@
 🧮 Python Calculator
-🎥 Video Demo: <PASTE YOUR YOUTUBE VIDEO URL HERE>
+🎥 Video Demo: https://youtu.be/QW5IuvIlbf8
 👨‍💻 Author:
 
-[YOUR NAME]
+[Ishika Wasnik]
 
 📚 Course:
 
